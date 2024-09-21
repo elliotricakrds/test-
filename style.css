@@ -1,0 +1,23 @@
+body{ 
+    background :linear-gradient(green , skyblue );
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+
+   
+   
+}
+h1{ 
+    color: white;
+    font-family: "Bebas Neue";
+}
+
+p{ 
+    
+    color: white;background-color: rgb(28, 10, 48);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border-style: double;
+    border-color: black;
+
+}
+
